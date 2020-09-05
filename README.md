@@ -1,16 +1,21 @@
-### Hi there 👋
+![Michael's website](https://github.com/michaelboyles/michaelboyles/blob/master/images/banner.png?raw=true)
 
-<!--
-**michaelboyles/michaelboyles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me:**<br/>
+Name: Michael<br/>
+Age: 28<br/>
+Profession: Software developer
 
-Here are some ideas to get you started:
+I'm mainly a ![java](https://raw.githubusercontent.com/michaelboyles/michaelboyles/master/images/java.gif) developer. Some
+JavaScript & React too. I've written C++ and PHP professionally in the past and I'd rather not do that again.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in source code and bytecode generation as an alternative to reflection-based frameworks. I�m liking
+the direction [Micronaut](https://micronaut.io/)'s authors are taking.
+                                                                                                           
+I have a professional interest in [FIX](https://en.wikipedia.org/wiki/Financial_Information_eXchange) even though it's
+objectively quite boring.
+
+If one of my projects helped you, feel free to donate: [![donate](https://github.com/michaelboyles/michaelboyles/blob/master/images/donate.gif?raw=true)](https://donate.battersea.org.uk/)
+
+![undertaker](https://github.com/michaelboyles/michaelboyles/blob/master/images/undertaker.jpg?raw=true) [![stupid tester](https://github.com/michaelboyles/michaelboyles/blob/master/images/stupid.jpg?raw=true)](http://www.stupidtester.com/)
+
+You are visitor number ![visitor](https://www.webfreecounter.com/hit.php?id=geefanna&nd=7&style=80)
