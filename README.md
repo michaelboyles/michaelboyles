@@ -2,7 +2,7 @@
 
 **About me:**<br/>
 Name: Michael<br/>
-Age: 28<br/>
+Age: 29<br/>
 Profession: Software developer
 
 I'm mainly a ![java](https://raw.githubusercontent.com/michaelboyles/michaelboyles/master/images/java.gif) developer. Some
@@ -14,7 +14,7 @@ the direction [Micronaut](https://micronaut.io/)'s authors are taking.
 I have a professional interest in [FIX](https://en.wikipedia.org/wiki/Financial_Information_eXchange) even though it's
 objectively quite boring.
 
-If one of my projects helped you, feel free to donate: [![donate](https://github.com/michaelboyles/michaelboyles/blob/master/images/donate.gif?raw=true)](https://donate.battersea.org.uk/)
+If one of my projects helped you, feel free to donate: [![donate](https://github.com/michaelboyles/michaelboyles/blob/master/images/donate.gif?raw=true)](https://en.wikipedia.org/wiki/Irony)
 
 ![undertaker](https://github.com/michaelboyles/michaelboyles/blob/master/images/undertaker.jpg?raw=true) [![stupid tester](https://github.com/michaelboyles/michaelboyles/blob/master/images/stupid.jpg?raw=true)](http://www.stupidtester.com/)
 
